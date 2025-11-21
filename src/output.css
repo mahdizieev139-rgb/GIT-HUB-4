@@ -352,6 +352,9 @@
   .px-\[20px\] {
     padding-inline: 20px;
   }
+  .px-\[100px\] {
+    padding-inline: 100px;
+  }
   .py-5 {
     padding-block: calc(var(--spacing) * 5);
   }
@@ -369,6 +372,21 @@
   }
   .py-\[50px\] {
     padding-block: 50px;
+  }
+  .py-\[100\] {
+    padding-block: 100;
+  }
+  .py-\[100px\] {
+    padding-block: 100px;
+  }
+  .py-\[250px\] {
+    padding-block: 250px;
+  }
+  .py-\[290px\] {
+    padding-block: 290px;
+  }
+  .py-\[300px\] {
+    padding-block: 300px;
   }
   .pt-10 {
     padding-top: calc(var(--spacing) * 10);
